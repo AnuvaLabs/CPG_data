@@ -1,0 +1,21 @@
+family_id,family_name,matrix
+ac,Access Control,nist-800-53-r5
+at,Awareness and Training,nist-800-53-r5
+au,Audit and Accountability,nist-800-53-r5
+ca,"Assessment, Authorization, and Monitoring",nist-800-53-r5
+cm,Configuration Management,nist-800-53-r5
+cp,Contingency Planning,nist-800-53-r5
+ia,Identification and Authentication,nist-800-53-r5
+ir,Incident Response,nist-800-53-r5
+ma,Maintenance,nist-800-53-r5
+mp,Media Protection,nist-800-53-r5
+pe,Physical and Environmental Protection,nist-800-53-r5
+pl,Planning,nist-800-53-r5
+pm,Program Management,nist-800-53-r5
+ps,Personnel Security,nist-800-53-r5
+pt,Personally Identifiable Information Processing and Transparency,nist-800-53-r5
+ra,Risk Assessment,nist-800-53-r5
+sa,System and Services Acquisition,nist-800-53-r5
+sc,System and Communications Protection,nist-800-53-r5
+si,System and Information Integrity,nist-800-53-r5
+sr,Supply Chain Risk Management,nist-800-53-r5
